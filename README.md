@@ -13,7 +13,7 @@ Este app exibe uma grade de cartões que trazem as seguintes informações sobre
 -   nome
 -   significado
 
-Essas informações são obtidas através do arquivo `emojipedia.js` que contém um array de objetos. Os dados foram extraídos deste (site)[https://www.emojimeanings.net/].
+Essas informações são obtidas através do arquivo `emojipedia.js` que contém um array de objetos. Os dados foram extraídos deste [site](https://www.emojimeanings.net/).
 
 
 ## Link do App no CodeSandbox
